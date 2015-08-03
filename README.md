@@ -68,7 +68,7 @@
     2. 销户界面 （DeleteUI.java）
     3. -未完成- 开户界面 （EstablishUI.java）
 
-##### 根目录
+###### 根目录
 数据库文件 （atm.sql）
 <br/>本ATM程序配套生成的数据库
 
